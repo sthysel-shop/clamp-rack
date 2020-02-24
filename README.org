@@ -1,6 +1,4 @@
-#+title:Clamp rack
-
-* Clamp Rack
+#+title:Simple clamp rack
 
 Yea its a clamp rack, the simplest one I could think of, and it works exactly as
 it should: it racks my clamps. Its not perfect, but it beats the 'heap on the
