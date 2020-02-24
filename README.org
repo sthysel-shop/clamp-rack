@@ -1,0 +1,19 @@
+#+title:Clamp rack
+
+* Clamp Rack
+
+Yea its a clamp rack, the simplest one I could think of, and it works exactly as
+it should: it racks my clamps. Its not perfect, but it beats the 'heap on the
+floor' "solution" I had before.
+
+#+caption: Top 
+[[file:pics/top2.jpg]]
+
+
+#+caption: Close
+[[file:pics/close.jpg]]
+
+#+caption: Side
+[[file:pics/side.jpg]]
+
+
